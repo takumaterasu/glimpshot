@@ -64,7 +64,7 @@ Après chaque capture, une vignette apparaît en bas à droite de l'écran, le t
 
 <br clear="right">
 
-### Un éditeur complet, à la manière de Photoshop
+### Un éditeur complet
 
 Outils à gauche, réglages juste à côté, et tout ce qu'on attend d'un vrai éditeur : annuler et rétablir, poignées de redimensionnement, Maj pour contraindre, zoom.
 
