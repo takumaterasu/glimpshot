@@ -120,7 +120,7 @@ Glimpshot n'est pas distribué par l'App Store. macOS demande donc de confirmer,
 1. Ouvrez **Applications** et double-cliquez sur **Glimpshot**.
    macOS affiche *« Apple n'a pas pu confirmer que « Glimpshot » ne contient pas de logiciel malveillant… »*.
    Cliquez sur **Terminé** (surtout pas *Placer dans la corbeille*).
-2. Ouvrez **Réglages Système** ( › Réglages Système…).
+2. Ouvrez **Réglages Système** (menu Pomme, en haut à gauche › *Réglages Système…*).
 3. Dans la barre latérale, choisissez **Confidentialité et sécurité**.
 4. Faites défiler jusqu'à la rubrique **Sécurité**. Vous y voyez *« « Glimpshot » a été bloqué afin de protéger votre Mac »*.
 5. Cliquez sur **Ouvrir quand même**, puis confirmez avec votre mot de passe ou Touch ID.
